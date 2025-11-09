@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in Computer Science at the University of Massachusetts Amherst, where I work with [Prof. Hong Yu](https://www.cics.umass.edu/about/directory/hong-yu) in the [BioNLP Lab](https://bio-nlp.github.io/index.html). My current research focuses on reinforcement learning with verifiable rewards for medical reasoning, exploring how factual, interpretable reward signals can guide models toward safer and more reliable clinical decision-making. Before joining the BioNLP Lab, I collaborated with mentors from Microsoft MAIDAP to improve the safety and efficiency of large language model fine-tuning. I also spent a summer as a Software Development Engineer Intern at Amazon, where I helped enhance identity management workflows for Amazon Connect. Earlier in my research journey, I worked with [Prof. Mai Elsherief](https://www.maielsherief.com/) at Northeastern University, where I explored applications of AI for social good, including projects on mental health discourse and emotional bias in language models.
+I am a Master’s student in Computer Science at the University of Massachusetts Amherst, where I work with [Prof. Hong Yu](https://www.cics.umass.edu/about/directory/hong-yu) in the [BioNLP Lab](https://bio-nlp.github.io/index.html). My current research focuses on reinforcement learning with verifiable rewards for medical reasoning, exploring how factual, interpretable reward signals can guide models toward safer and more reliable clinical decision-making. Before joining the BioNLP Lab, I collaborated with mentors from **Microsoft MAIDAP** to improve the safety and efficiency of large language model fine-tuning. I also spent a summer as a Software Development Engineer Intern at **Amazon**, where I helped enhance identity management workflows for Amazon Connect. Earlier in my research journey, I worked with [Prof. Mai Elsherief](https://www.maielsherief.com/) at Northeastern University, where I explored applications of AI for social good, including projects on mental health discourse and emotional bias in language models.
 
 At UMass, I also served as a core member of the [Public Interest Technology (PIT) Club](https://sites.google.com/umass.edu/pitumass?usp=share_link), organizing events and guest speaker sessions to promote the ethical and responsible use of technology across disciplines. Additionally, I have contributed as an Undergraduate Research Volunteer, working with PhD student [Kunjal Panchal](https://astuary.github.io/Kunjal/) on a survey of memory-efficient training methods for large language models.
 
 I am broadly motivated by the question of **how to build AI systems that are not only capable, but also reliable, interpretable, and aligned with human values**. My long-term goal is to advance **AI for social good and safety**, bridging the gap between technical rigor and real-world responsibility. I am especially interested in combining interpretability, safety alignment, and human-centric evaluation to develop models whose reasoning can be understood, verified, and trusted.
 
----
 
 ## News
 - **Nov 2025:** Presented a poster at **EMNLP 2025 (Industry Track)** on safe fine-tuning on a budget, in collaboration with Microsoft MAIDAP.
@@ -26,7 +25,6 @@ I am broadly motivated by the question of **how to build AI systems that are not
 - **Sept 2023:** Gave a lightning talk at the [National Early Research Scholars Program (ERSP) Conference 2023](https://sites.google.com/ucsd.edu/ersp/about/2023-ersp-national-conference-virtual).
 
 
----
 
 ## Selected Publications
 
@@ -45,13 +43,11 @@ I am broadly motivated by the question of **how to build AI systems that are not
    Bangzhao Shu*, Isha Joshi*, Melissa Karnaze, **Anh C. Pham**, Ishita Kakkar, Sindhu Kothe, Arpine Hovasapian, Mai ElSherief 
    [Preprint](https://arxiv.org/pdf/2509.09593)
 
----
 
 ## Teaching Assistant
 - **Fall 2025** (CS485) Intro to Natural Language Processing	
 - **Spring 2025** (CS373) Intro to Computer Graphics	
 
----
 
 ## Contact
 - **Email:** acpham [at] umass [dot] edu  
