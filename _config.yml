@@ -23,7 +23,7 @@ repository               : "ShadowMuffin25/shadowmuffin25.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_ava.JPG"
   name             : "Anh"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science MS Student at University of Massachusetts Amherst"
